@@ -1,0 +1,37 @@
+{
+"Mensaje 1": {
+		"asunto": "Trabajo completado",
+		"contenido": "He completado mi trabajo y tambien he revisado el del trabajador 1, todo correcto.",
+		"usuario": "Trabajador 3",
+		"fecha": "25/04/2016",
+		"imagen": "image/trabajador3.jpg"
+	},
+"Mensaje 2":{
+		"asunto": "Trabajo finalizado",
+		"contenido": "He completado mi trabajo y se lo he enviado al jefe y a los demás trabajadores para que lo consultéis.",
+		"usuario": "Trabajador 2",
+		"fecha": "24/04/2016",
+		"imagen": "image/trabajador2.jpg"
+	}, 
+"Mensaje 3":{
+		"asunto": "Ampliación entrega",
+		"contenido": "Debido a los problemas con el ordenador ampliaré la entrega una semana para el trabajador 1.",
+		"usuario": "Jefe",
+		"fecha": "24/04/2016",
+		"imagen": "image/jefe.jpg"
+	},	
+"Mensaje 4":{
+		"asunto": "Retraso en la entrega",
+		"contenido": "He tenido ciertos problemas con el ordenador y no podré entregar a tiempo.",
+		"usuario": "Trabajador 1",
+		"fecha": "24/04/2016",
+		"imagen": "image/trabajador1.jpg"
+	},	
+"Mensaje 5":{
+		"asunto": "Terminar trabajo",
+		"contenido": "Hay que terminar el trabajo que os he encargado para la semana que viene.",
+		"usuario": "Jefe",
+		"fecha": "24/04/2016",
+		"imagen": "image/jefe.jpg"
+	}	 
+}

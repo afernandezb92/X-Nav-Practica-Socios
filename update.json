@@ -1,0 +1,16 @@
+{
+"Mensaje 1": {
+		"asunto": "Seguiremos mejorando",
+		"contenido": "Enhorabuena a todos, vamos a por más!.",
+		"usuario": "Trabajador 3",
+		"fecha": "Hoy",
+		"imagen": "image/trabajador3.jpg"
+	},
+"Mensaje 2":{
+		"asunto": "Buen trabajo",
+		"contenido": "Revisados todos los trabajos, está todo correcto. Buen trabajo!!!",
+		"usuario": "Jefe",
+		"fecha": "Hoy",
+		"imagen": "image/jefe.jpg"
+	}
+}

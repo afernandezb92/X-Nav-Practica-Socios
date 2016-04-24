@@ -1,0 +1,16 @@
+{
+"Mensaje 1": {
+		"asunto": "Trabajo completado",
+		"contenido": "He completado mi trabajo espero que esté todo correcto.",
+		"usuario": "Yo",
+		"fecha": "25/04/2016",
+		"imagen": "image/yo.jpg"
+	},
+"Mensaje 2":{
+		"asunto": "Pequeños retoques",
+		"contenido": "Me quedan unos pequeños retoques para finalizar el trabajo, lo entregaré a tiempo.",
+		"usuario": "Yo",
+		"fecha": "24/04/2016",
+		"imagen": "image/yo.jpg"
+	}
+}

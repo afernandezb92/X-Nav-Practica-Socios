@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="us">
+<head>
+	<meta charset="utf-8">
+	<title>Socios</title>
+	<link rel="stylesheet" type="text/css" href="style.css" />
+	<script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
+	<script src="script.js"></script>
+	
+</head>
+<body>
+	<div class="contenedor">
+        <div class="titulo">SOCIOS</div>
+		<div id="pestanas">
+	            <ul id=lista>
+	                <li id="pestana1" onclick='cambioPestana(this)'><a href="#">TIMELINE</a></li>
+	                <li id="pestana2" onclick='cambioPestana(this)'><a href="#">MYLINE</a></li>
+	                <li id="pestana3" onclick='cambioPestana(this)'><a href="#">WRITE</a></li>
+	            </ul>
+	    </div>
+	    <div id="contenidopestanas">
+	            <div id="timeline" style='display:block;'>
+					<p id="botonupdate" style='display:block;'>
+		            </p>
+					<p id="update" style='display:none;'>
+		            </p>
+	            </div>
+	            <div id="myline" style='display:none;'>
+	            </div>
+	            <div id="write" style='display:none;'>
+					<form>
+						<h2>Resumen:  &nbsp <input id="resumen" type="text"></h2>
+						<h2>Contenido: <input id="contenido" type="text"></h2>
+					</form>
+					<p id ='btn 0' id='publicar' class='btn' align='center' onclick='publicar()'>Publicar</p>
+	            </div>
+	    </div>  
+	 </div> 
+</body>	
